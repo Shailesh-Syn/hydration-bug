@@ -1,0 +1,152 @@
+.TextField {
+  margin-top: 20px;
+  margin-left: 500px;
+  padding: 2px 2px;
+  padding-bottom: 10px;
+  box-sizing: 10px;
+}
+
+.Text_primary {
+  margin-right: 10px;
+}
+.TextFieldContainer {
+  display: inline-flex;
+
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+/* first container */
+.mainContainer {
+  margin-bottom: 20px;
+  display: grid;
+  box-sizing: border-box;
+
+  border: 1px solid black;
+  height: 530px;
+  width: 30%;
+  margin-left: 5px;
+  /* margin-top: 50px; */
+  margin-right: 8px;
+  padding: 20px;
+}
+/* second container */
+.mainContainer11 {
+  display: grid;
+  box-sizing: border-box;
+  padding: 5px;
+  border: 1px solid black;
+  height: 580px;
+  width: 30%;
+  margin-left: 20px;
+  /* margin-top: 50px; */
+  margin-right: 5px;
+  padding: 20px;
+}
+
+
+.mainContainer12 {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  margin-right: 100px;
+  border: 1px solid rgb(13, 9, 9);
+  height: 580px;
+  width: 50%;
+  margin-left: 20px;
+  padding: 20px;
+  max-width: 470px;
+}
+
+
+
+.pr-4 {
+  padding-right: 10px;
+  margin-left: 7px;
+}
+#outlined-basic {
+  height: 10px !important;
+}
+
+
+.shailesh {
+  display: flex;
+  background-color: hwb(181 41% 38%);
+}
+
+.containerbhau {
+  display: flex;
+  flex-direction: column;
+}
+
+.abcd {
+  padding: 20px;
+  width: 50%;
+}
+
+.Row2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.titleRow {
+  display: flex;
+}
+.maincontainer15{
+  display: grid;
+  box-sizing: border-box;
+  /* margin-right: 100px; */
+  border: 1px solid rgb(13, 9, 9);
+  height: 350px;
+  width: 25%;
+  padding: 20px;
+  padding-right: 202px;
+  margin-top: 20px;
+ 
+}
+
+.mainContainer16{
+  margin-right: 5px;
+  display: grid;
+  box-sizing: border-box;
+  /* margin-right: 100px; */
+  border: 1px solid rgb(13, 9, 9);
+  height: 600px;
+  width: 70%;
+  padding: 20px;
+  margin-top: 20px;
+  padding-right: 202px;
+
+  margin-left: 20px;
+  /* margin-top: 50px; */
+  margin-right: 10px;
+  
+}
+.titleRowSecond {
+  display: flex;}
+
+
+  /* 15 and 16 container combine in one row */
+  .container15-16{
+    display: flex;
+   
+  }
+
+  .maincontainer17 {
+    
+    
+    box-sizing: border-box;
+    margin-right: 100px;
+    border: 1px solid rgb(13, 9, 9);
+    height: 580px;
+    width: 50%;
+  }
+
+  
+
+.Sales
+{
+  display:flex;
+}
+
+
+
